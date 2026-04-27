@@ -81,11 +81,6 @@ Built as a personal project to practice:
 
 ## ▶️ How to Run
 
-
----
-
-## ▶️ How to Run
-
 ```bash
 pip install -r requirements.txt
 python main.py
