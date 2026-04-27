@@ -50,16 +50,10 @@ project/
 ├── writer.py
 ├── formatter.py
 
-
 ---
 
-## ▶️ How to Run
+## 📊 Output
 
-```bash
-pip install -r requirements.txt
-python main.
-
-📊 Output
 The program generates an Excel report with:
 - Summary (KPIs)
 - Sales by Region
@@ -67,12 +61,31 @@ The program generates an Excel report with:
 - Customer Analysis
 - Top Products per Region
 
-🎯 Project Goal
+---
+
+## 🎯 Project Goal
+
 This project demonstrates a real-world data pipeline:
 
-📌 Author Notes
+---
+
+## 📌 Author Notes
+
 Built as a personal project to practice:
 - Data processing
 - Python automation
 - Excel reporting
 - Modular software design
+
+---
+
+## ▶️ How to Run
+
+
+---
+
+## ▶️ How to Run
+
+```bash
+pip install -r requirements.txt
+python main.py
